@@ -1,0 +1,54 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
+
+a:link {
+    color: #444444;
+}
+.part {
+    font-family: 'Ubuntu Mono', monospace;
+    color: #444444;
+}
+.part0 {
+    max-width: 980px;
+    padding: 0 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 30px;
+}
+.part1{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.part-image {
+    
+    border-radius: 55%;
+    width: 180px;
+    height: 180px;
+    margin-bottom: 40px;
+}
+.part3 {
+    padding-bottom: 40px;
+}
+.part4 {
+    padding-bottom: 20px;
+}
+.part3 a:hover {
+    background-color: #40E0D0;
+    transition: background-color 0.5s;
+}
+
+.part4 a:hover {
+    background-color: #40E0D0;
+    transition: background-color 0.5s;
+}
+
+.part5 a:hover {
+    background-color: #40E0D0;
+    transition: background-color 0.5s;
+}
