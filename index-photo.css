@@ -1,0 +1,33 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+}
+.photo{
+    width: 33%;
+    margin-top: 20px;
+}
+
+.photo-inner {
+    text-align: center;
+    margin: 20px 20px;
+}
+.photo-img {
+    width: 80%;
+    height: 80%;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.photo-title{
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.photo-text{
+    font-size: 10px;
+}
+.photo-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}

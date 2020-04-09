@@ -1,0 +1,49 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
+
+.header {
+    height: 45px;
+    width: 100%;
+    box-shadow: 0 0 10px #dddddd;
+    position: fixed;
+    top: 0;
+}
+
+.header-right{
+    float:right;
+}
+.header-left{
+    float:left;
+}
+.clear{
+    clear:both;
+}
+
+.part a:hover {
+    background-color: #40E0D0;
+    transition: background-color 0.5s;
+}
+.container{
+    max-width: 980px;
+    padding: 10px 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-part1{
+    padding-top: 60px;
+}
+
+.keireki{
+    padding-top: 10px;
+}
+.p-part2 {
+    padding-top: 60px;
+}
+
+.sikaku {
+    padding-top: 10px;
+}
