@@ -1,0 +1,37 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.photo {
+    width: 50%;
+    margin-top: 20px;
+}
+
+.photo-inner {
+    text-align: center;
+}
+
+.photo-img {
+    width: 90%;
+    height: 90%;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.photo-title {
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.photo-text {
+    font-size: 10px;
+}
+
+.photo-wrapper {
+    max-width: 900px;
+    padding: 0 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
